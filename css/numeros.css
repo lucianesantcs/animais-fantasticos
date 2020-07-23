@@ -22,4 +22,7 @@
   .numeros-grid {
     grid-column: 1;
   }
+  .numeros-grid h3 {
+    font-size: 1.5rem;
+  }
 }
