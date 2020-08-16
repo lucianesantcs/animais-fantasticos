@@ -46,7 +46,7 @@
   color: #fff;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 580px) {
   [data-dropdown] .dropdown-menu {
     display: block;
     animation: show-up 0.3s forwards;
