@@ -2,7 +2,7 @@
 
 # Animais Fantásticos
 
-Animais Fantásticos é um site fictício desenvolvido no curso de JavaScript ES6+ completo pela Origamid.
+Animais Fantásticos é um site desenvolvido no curso de JavaScript ES6+ completo pela Origamid.
 
 ### Previews
 
