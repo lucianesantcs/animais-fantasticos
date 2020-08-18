@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/lucianesantcs/animais-fantasticos/design/mockup.gif)
+![banner](https://github.com/lucianesantcs/animais-fantasticos/blob/master/design/mockup.gif?raw=true)
 
 # Animais Fantásticos
 
