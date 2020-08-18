@@ -3,6 +3,8 @@
 # Animais Fantásticos
 
 Animais Fantásticos é um site desenvolvido no curso de JavaScript ES6+ completo pela Origamid.
+<br>
+<a href="https://lucianesantcs.github.io/animais-fantasticos/">Live Preview</a>
 
 ### Previews
 
