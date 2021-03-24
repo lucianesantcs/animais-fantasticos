@@ -4,7 +4,7 @@ export default class ScrollSuave {
     if (options === undefined) {
       this.options = {
         behavior: 'smooth',
-        block: 'start',
+        block: 'center',
       };
     } else {
       this.options = options;
